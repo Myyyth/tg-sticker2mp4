@@ -8,9 +8,15 @@ Simple telegram bot to convert lottie stickers to mp4. Available at [@sticker2mp
 
 ## Running
 Copy **.env.example** to **.env**
-```cp .env.example .env```
+```
+cp .env.example .env
+```
 Modify **.env** and enter your Telegram bot token
 Install dependencies
-```pipenv install```
+```
+pipenv install
+```
 Run bot
-```pipenv run python main.py```
+```
+pipenv run python main.py
+```
